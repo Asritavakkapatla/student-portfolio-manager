@@ -22,7 +22,6 @@ markdown
 Copy
 Edit
 4. Open browser and go to: [http://localhost:3000](http://localhost:3000)
-
 📎 Project Link
 [GitHub Repo](https://github.com/Asritavakkapatla/student-portfolio-manager)
 Scroll down and click Commit new file ✅
